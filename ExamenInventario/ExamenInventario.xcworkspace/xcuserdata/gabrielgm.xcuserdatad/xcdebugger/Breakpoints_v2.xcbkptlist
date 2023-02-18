@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "04380CF3-49D7-4A42-8216-B972E1C959A9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FA935C2-1EB6-4D58-A26B-EE8DF0EAB865"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExamenInventario/Common/DetailProduct/DetailProductVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "saveActionButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8B61756-4134-4A16-B855-81C27244A9F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExamenInventario/Common/DetailProduct/DetailProductVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "saveActionButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "488F7DC2-6DE6-49C3-8ACB-D44638D466C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExamenInventario/TotalProductSales/TotalProductSalesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "TotalProductSalesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "488F7DC2-6DE6-49C3-8ACB-D44638D466C4 - e635cba48b3ac93b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.TotalProductSalesViewController.productArray.getter : Swift.Array&lt;ExamenInventario.SaleProduct&gt;"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/TotalProductSales/TotalProductSalesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "488F7DC2-6DE6-49C3-8ACB-D44638D466C4 - 4470feaac6b8dd27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.TotalProductSalesViewController.productArray.setter : Swift.Array&lt;ExamenInventario.SaleProduct&gt;"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/TotalProductSales/TotalProductSalesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "488F7DC2-6DE6-49C3-8ACB-D44638D466C4 - fad219d54b367638"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.TotalProductSalesViewController.productArray.modify : Swift.Array&lt;ExamenInventario.SaleProduct&gt;"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/TotalProductSales/TotalProductSalesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "488F7DC2-6DE6-49C3-8ACB-D44638D466C4 - 82135cf971a3dcca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.TotalProductSalesViewController.productArray.modify : Swift.Array&lt;ExamenInventario.SaleProduct&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/TotalProductSales/TotalProductSalesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "488F7DC2-6DE6-49C3-8ACB-D44638D466C4 - 5a1579a3c1a5714"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.TotalProductSalesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ExamenInventario.TotalProductSalesViewController"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/TotalProductSales/TotalProductSalesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "488F7DC2-6DE6-49C3-8ACB-D44638D466C4 - bfa1209412f9d6ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.TotalProductSalesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ExamenInventario.TotalProductSalesViewController&gt;"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/TotalProductSales/TotalProductSalesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4A4EADB-3FEA-4DFB-8E83-69EA449129B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExamenInventario/ProductInventories/ProductInventoriesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "ProductInventoriesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D4A4EADB-3FEA-4DFB-8E83-69EA449129B8 - bd21e08befbfdc66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.ProductInventoriesViewController.productArray.getter : Swift.Array&lt;ExamenInventario.DetailProduct&gt;"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/ProductInventories/ProductInventoriesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D4A4EADB-3FEA-4DFB-8E83-69EA449129B8 - f879d09eb8e9c86a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.ProductInventoriesViewController.productArray.setter : Swift.Array&lt;ExamenInventario.DetailProduct&gt;"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/ProductInventories/ProductInventoriesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "D4A4EADB-3FEA-4DFB-8E83-69EA449129B8 - 8c9e43f19c96a165"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.ProductInventoriesViewController.productArray.modify : Swift.Array&lt;ExamenInventario.DetailProduct&gt;"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/ProductInventories/ProductInventoriesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D4A4EADB-3FEA-4DFB-8E83-69EA449129B8 - 1c6a1bbb33146e3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.ProductInventoriesViewController.productArray.modify : Swift.Array&lt;ExamenInventario.DetailProduct&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/ProductInventories/ProductInventoriesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D4A4EADB-3FEA-4DFB-8E83-69EA449129B8 - a7f2019bcb033496"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.ProductInventoriesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ExamenInventario.ProductInventoriesViewController"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/ProductInventories/ProductInventoriesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "D4A4EADB-3FEA-4DFB-8E83-69EA449129B8 - b0ffaf5ef66e0e4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExamenInventario.ProductInventoriesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ExamenInventario.ProductInventoriesViewController&gt;"
+                  moduleName = "ExamenInventario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielgm/Documents/ExamenInventario/ExamenInventario/ExamenInventario/ProductInventories/ProductInventoriesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36CD5E0F-0363-4FFD-97A7-94DFD3FFA0F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExamenInventario/ProductInventories/ProductInventoriesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F2C7208-757D-4B8E-934F-FEF34A61387D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExamenInventario/SQLiteDatasource/SQLiteCommands.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "presentRowsProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
